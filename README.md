@@ -53,10 +53,10 @@ Students will look at color and design in games.
 - Class 7 - Start Game 2
   - State Machine
   - Define Custom Project
-- Class 8 -
-  -
+- Class 8
+  - ...topic...
   - **Show completed tutorial** - Physics Game
-- Class 9 -
+- Class 9
   - Lab
 - Class 10 - Game 3
   - Entity Component structure
