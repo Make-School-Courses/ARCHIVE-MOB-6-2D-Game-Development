@@ -74,7 +74,7 @@ weeks of class.
 
 Students present their completed tutorials each week in class.
 
-Stretch challenges cover
+Stretch challenges challenge students to add more to the tutorial projects. 
 
 The custom project will be presented in stages across the three final weeks
 of class.
