@@ -33,19 +33,24 @@ Students will look at color and design in games.
 
 - Class 1 - Introduction
   - What is SpriteKit
+    - Navigating a SpriteKit project
     - Nodes, Scenes, Sprites, Actions
   - Tutorial - **Sushi Neko**
-- Class 2 - Action and Motion
+- Class 2 - Actions and Motion
   - Making things move and interact with actions
+    - Using SKAction
+    - Using SKTexture
   - **Show completed tutorial** - Sushi Neko
 - Class 3 - Physics
   - Using physics to simulate real world collisions and gravity
+    - Working With Physics
   - Tutorial - **Hoppy Bunny**
 - Class 4 - Game 1
   - Discussion: Game Balance
   - **Show completed tutorial** - Hoppy Bunny
 - Class 5 - Continue game
   - More physics, Particle Emitters
+    - SKEmitter
   - Tutorial - **Physics Game**
 - Class 6 - Wrap up game 1
   - Physics world
