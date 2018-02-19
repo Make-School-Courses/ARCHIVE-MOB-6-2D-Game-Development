@@ -94,7 +94,9 @@ of class.
 
 1. stage 1...
 1. stage 2...
-1. stage 3...
+
+Students must push their games to iTunes Connect and invite class members 
+to beta test with testflight. 
 
 ## Evaluation
 
