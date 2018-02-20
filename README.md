@@ -113,9 +113,8 @@ of class.
 
 ## Evaluation
 
+To complete this class:
+
 Students must complete all three game projects, and class challenges.
 
-
 ## Resources
-
-TBD
