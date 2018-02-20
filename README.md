@@ -1,8 +1,4 @@
-# Mob 6 2d Games
-
-## Prerequisites
-
-Mob 1, or basic iOS and Swift, SA.
+# MOB6 - 2D Game Development
 
 ## Course Overview
 
@@ -20,7 +16,7 @@ Students will look at color and design in games.
 1. Level design
 1. Designing game assets
 1. Planning game balance for quality game play
-1. Look at patterns like Entity component structure and State machine
+1. Look at patterns like Entity component structure and State machines
 
 ## Competencies
 
@@ -29,6 +25,31 @@ Students will look at color and design in games.
 1. Identify various tradeoffs of each architecture and select best fit for game.
 1. Design games with interesting and engaging game play through careful game balance.
 
+## Vocabulary
+
+- Sprites
+- Scenes
+- Physics body
+- SKActions
+- Mechanics
+- Collisions
+- Coordinates
+
+## Projects
+
+Class will cover two (2) tutorials and one custom game project. Each of the
+two tutorials should be completed each week for the first two
+weeks of class.
+
+Students present their completed tutorials each week in class.
+
+The custom project will be presented in stages across the three final weeks
+of class.
+
+- [Sushi Neko]()
+- [Hoppy Bunny](https://www.makeschool.com/online-courses/tutorials/build-hoppy-bunny-with-spritekit-in-swift/)
+- [Custom Game](project-specifications)
+
 ## Class schedule
 
 - Class 1 - Introduction
@@ -36,29 +57,47 @@ Students will look at color and design in games.
     - Navigating a SpriteKit project
     - Nodes, Scenes, Sprites, Actions
   - Tutorial - **Sushi Neko**
+
 - Class 2 - Actions and Motion
   - Making things move and interact with actions
     - Using SKAction
     - Using SKTexture
+
+- Class 3 - Lab
   - **Show completed tutorial** - Sushi Neko
-- Class 3 - Physics
+
+- Class 4 - Physics
+  - Working With Physics
   - Using physics to simulate real world collisions and gravity
     - Working With Physics
   - Tutorial - **Hoppy Bunny**
-- Class 4 - Game 1
-  - Discussion: Game Balance
+
+- Class 5 - Game Mechanics
+  - Balancing Game play, UX in games
+  - Brainstorm mechanic
+  - Define Custom Project
+  - Pair & Exchange & Test
+
+- Class 6 - Lab
   - **Show completed tutorial** - Hoppy Bunny
-- Class 5 - Continue game
+
+- Class 7 - Continue game
   - More physics, Particle Emitters
     - SKEmitter
   - Tutorial - **Physics Game**
-- Class 6 - Wrap up game 1
+  - Pair & Exchange & Test
+
+- Class 8 - Beta Testing
   - Physics world
-  - **Show completed tutorial** - Physics Game
-- Class 7 - Start Game 2
+  - Beta test through itunesconnect
+  - Pair & Exchange & Test
+
+- Class 9 - Lab
+
+- Class 10 - State Machines
   - State Machine
-  - Define Custom Project
-- Class 8
+
+- Class 10
   - ...topic...
   - **Show completed tutorial** - Physics Game
 - Class 9
@@ -71,40 +110,11 @@ Students will look at color and design in games.
 - Class 12 -
   - Lab
 
-## Projects
-
-Class will cover three tutorials and one custom project. Each of the
-three tutorials should be completed one each week for the first three
-weeks of class.
-
-Students present their completed tutorials each week in class.
-
-Stretch challenges challenge students to add more to the tutorial projects. 
-
-The custom project will be presented in stages across the three final weeks
-of class.
-
-### Tutorials
-
-1. Tutorial 1 - Sushi Neko
-1. Tutorial 2 - Hoppy Bunny
-1. Tutorial 2 - Physics Game
-
-### Custom Project
-
-1. stage 1...
-1. stage 2...
-
-Students must push their games to iTunes Connect and invite class members 
-to beta test with testflight. 
 
 ## Evaluation
 
 Students must complete all three game projects, and class challenges.
 
-## Vocabulary
-
-TBD
 
 ## Resources
 
