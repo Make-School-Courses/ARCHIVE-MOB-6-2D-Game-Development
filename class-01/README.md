@@ -109,7 +109,7 @@ Break it down into problems to solve.
 
 ## Assignment - Sushi Neko tutorial
 
-- [Sushi Neko Tutorial]()
+- [Sushi Neko Tutorial](https://github.com/MakeSchool-Tutorials/Sushi-Neko-SpriteKit-Swift)
 
 ### Vocabulary
 
