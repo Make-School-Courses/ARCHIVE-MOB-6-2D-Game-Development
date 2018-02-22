@@ -46,7 +46,7 @@ Students present their completed tutorials each week in class.
 The custom project will be presented in stages across the three final weeks
 of class.
 
-- [Sushi Neko]()
+- [Sushi Neko](https://www.makeschool.com/online-courses/tutorials/build-a-clone-of-timberman/new-project)
 - [Hoppy Bunny](https://www.makeschool.com/online-courses/tutorials/build-hoppy-bunny-with-spritekit-in-swift/)
 - [Custom Game](project-specifications)
 
