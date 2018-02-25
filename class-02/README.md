@@ -25,12 +25,23 @@ Combine these together to create complex actions.
 
 [Slides](https://docs.google.com/presentation/d/1pNY4vazJ8q65PKLP-tSxZlV-RnajkF07ozPEyW9PUbo/edit?usp=sharing)
 
+[SKActions Docs](https://developer.apple.com/documentation/spritekit/skaction)
+
 ## In class challenge 
 
-Make the most bombastic amazeballs animation using actions. This animation 
-should introduce your game.
+### Smove 
 
-Students pair up to work in class. 
+Get Objects to move across the screen from any side. 
 
-Everyone shows their work at the end of class and vote in Slack. 
+Create a set of action sequences to move objects across the screen and 
+remove them when they reach the end. 
+
+### Exercise
+
+Create an intro animation in a scene. 
+
+Load the scene. 
+
+When the animation completes present the game scene. 
+
 
