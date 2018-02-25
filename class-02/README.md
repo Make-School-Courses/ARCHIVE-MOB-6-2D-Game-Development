@@ -6,14 +6,24 @@ Working with Sprites and Actions making Smove
 
 > An object that is executed by an SKNode to change its structure or content.
 
-Actions provide a system to make things happen. Actions can transform sprites
-move, scale, rotate, animate textures, etc. They can also play sounds and run 
-blocks of code. 
+Actions make things happen. Use actions to move, rotate, or scale nodes. 
+Using actions to animate the textures assigned to a sprite. Actions
+can also be used to execute a code block, and more. 
 
-Actions can also be grouped and sequenced. For example you can group a move
-and rotate action together to make an object move and rotate. You could 
-create a sequence of actions that would make an object move, then rotate, 
-then scale. 
+Actions can run other actions. SKAction has repeat, sequence, and group 
+actions. 
+
+Use Repeat to repeat an action any number of times, even infinite. 
+
+Use Sequence to run actions in series. 
+
+Use Group to run actions in parallel. 
+
+Combine these together to create complex actions. 
+
+## Actions 
+
+[Slides](https://docs.google.com/presentation/d/1pNY4vazJ8q65PKLP-tSxZlV-RnajkF07ozPEyW9PUbo/edit?usp=sharing)
 
 ## In class challenge 
 
