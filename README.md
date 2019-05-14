@@ -1,4 +1,6 @@
-# MOB6 - 2D Game Development
+# ARCHIVE - MOB6 - 2D Game Development
+
+## NOTE: This repo is no longer maintained
 
 ## Course Overview
 
